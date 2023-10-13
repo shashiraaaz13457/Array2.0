@@ -28,6 +28,23 @@ int main(){
     // int brr[5] = {5,8,5,9,9}; 
     // int crr[5] = {5,8}; 
     // int drr[2] = {5,8,5,9,9}; //error
+
+    //Indexing
+
+    int arr[5] = {2,8,5,6,1};
+
+    int n = 5;
+
+    //Printing Array
+    for (int i = 0; i < n; i++)
+    {
+        cout<<arr[i]<<" ";
+    }
     
+
+    // cout<<arr[0]<<endl;
+    // cout<<arr[1]<<endl;
+    // cout<<arr[2];
+
     return 0;
 }
