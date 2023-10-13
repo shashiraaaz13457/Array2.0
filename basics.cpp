@@ -31,20 +31,33 @@ int main(){
 
     //Indexing
 
-    int arr[5] = {2,8,5,6,1};
+    // int arr[5] = {2,8,5,6,1};
 
-    int n = 5;
+    // int n = 5;
+    // cout<<arr[0]<<endl;
+    // cout<<arr[1]<<endl;
+    // cout<<arr[2];
 
     //Printing Array
+    // for (int i = 0; i < n; i++)
+    // {
+    //     cout<<arr[i]<<" ";
+    // }
+
+    //Taking input in an Array
+    int arr[5];
+    int n = 5;
+    for (int i = 0; i < n; i++)
+    {
+        cout<<"Enter the value for index "<<i<<": ";
+        cin>>arr[i];
+    }
+    cout<<"Printing the array "<<endl;
     for (int i = 0; i < n; i++)
     {
         cout<<arr[i]<<" ";
     }
     
-
-    // cout<<arr[0]<<endl;
-    // cout<<arr[1]<<endl;
-    // cout<<arr[2];
 
     return 0;
 }
