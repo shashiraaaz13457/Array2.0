@@ -6,7 +6,7 @@ int main(){
     int target = 10;
     int n = 5;
     bool flag = 0;
-    // 0 -> not found
+    // 0 -> not foundd
     // 1 -> found
 
     for (int i = 0; i < n; i++)
