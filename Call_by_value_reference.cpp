@@ -11,7 +11,7 @@ int incrementBy1(int n){
 int main(){
     int n;
     cin>>n;
-    incrementBy1(n); //yha same n print hoga input wala not incremented value..
+    incrementBy1(n); //yha same n print hoga input wala not incremented value.
     cout<<n<<endl;
     // n = incrementBy1(n);
 }
