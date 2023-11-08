@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-//right shift
+///right shift
 void ShiftElements(int arr[], int n){
     int temp = arr[n-1]; 
     for (int i = n-1; i > 0; i--)
