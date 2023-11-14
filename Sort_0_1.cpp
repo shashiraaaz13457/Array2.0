@@ -29,7 +29,7 @@ void Sort(int arr[],int n){
 
     //Easy Way
     int index = 0;
-    while (zerocount--)//This means jaise hi zerocount 0 hogi loops stops. 
+    while (zerocount--)//This means jaise hi zerocount 0 hogi loops stops.. 
     {
         arr[index] = 0;
         index++;
