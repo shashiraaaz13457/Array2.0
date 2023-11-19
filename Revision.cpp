@@ -32,7 +32,7 @@ int main(){
     // {
     //     cout<<2*arr[i]<<endl;
     // }
-//2nd problem statement(Linear Search Concept)
+//2nd problem statement(Linear Search Concept)..
     // int arr[6] = {2,4,6,8,10,12};
     // int target = 11;
     // bool flag = 0;
