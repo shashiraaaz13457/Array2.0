@@ -24,7 +24,7 @@ void countZeroOne(int arr[],int n){
     cout<<"One Appeared : " <<countone<<endl;
 }
 
-//Ques2: Minimum Number in an Array..
+//Ques2: Minimum Number in an Array
 int main(){
     int arr[10] = {0,1,0,1,1,1,0,0,0,0};
     int n = 10;
