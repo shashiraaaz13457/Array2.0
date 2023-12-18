@@ -10,10 +10,10 @@ void print(vector<int>v){
     }
     
 }
-//In Vector, don't tell size of vector(kind of dynamic array)..
+//In Vector, don't tell size of vector(kind of dynamic array).
 //Just keep inserting, it will manage the allocations.
 int main(){
-    vector<int>v; //Array hi h.
+    vector<int>v; //Array hi h..
     //Insert
     v.push_back(1);
     v.push_back(2);
