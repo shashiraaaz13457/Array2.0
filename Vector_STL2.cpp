@@ -11,7 +11,7 @@ void print(vector<int>v){
     
 }
 //In Vector, don't tell size of vector(kind of dynamic array).
-//Just keep inserting, it will manage the allocations.
+//Just keep inserting, it will manage the allocations..
 int main(){
     vector<int>v; //Array hi h.
     //Insert
